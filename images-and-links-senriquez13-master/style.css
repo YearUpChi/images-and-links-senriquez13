@@ -1,0 +1,60 @@
+body {
+	background-color: #6FFFE9;
+	color: white;
+	text-align: center;
+	width: 80%;
+	margin: 0 auto;
+}
+#container {
+	background-color: #5BC0BE;
+	list-style-type: none;
+/*	position: fixed;
+	top: 50%;
+	left: 50%;*/
+	}
+header ul {
+	list-style-type: none;
+}
+header li {
+	display: inline-block;
+	/*margin: 5px;*/
+	padding: 10px;
+	border: 2px solid black;
+
+}
+#text {
+	background-color: #1C2541;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	font-family: 'Abril Fatface', cursive;
+}
+h2 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 110%;
+}
+.skyline {
+	border-radius: 8px;
+	width: 1300px;
+}
+.downtownchicago {
+	border-radius: 8px;
+	width: 1300px;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: #1C2541;
+}
+/*a:link*/
+	/*for unvisited links*/
+/*a:visited*/
+	/*for visited links*/
+/*a:hover*/
+	/*for mouse over the link*/
+/*a:active*/
+	/*for selected links*/
